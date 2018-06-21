@@ -1,0 +1,4 @@
+#!/bin/sh
+
+scheme --quiet <$1
+# scheme <$1
